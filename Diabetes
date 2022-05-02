@@ -1,0 +1,749 @@
+[
+   {
+      "image":"?",
+      "title":"Diabetes",
+      "steps":[
+         {
+            "title":"Step 1: Introduction",
+            "image":null,
+            "steps":[
+               {
+                  "title":"Name",
+                  "image":null,
+                  "steps":[
+                     {
+                        "image":null,
+                        "title":"Scientific: Diabetes mellitus",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Common: Diabetes",
+                        "steps":null
+                     }
+                  ]
+               },
+               {
+                  "title":"Description:",
+                  "image":null,
+                  "steps":[
+                     {
+                        "image":null,
+                        "title":"Digested food is broken down into glucose and delivered into the bloodstream. Increased blood sugar stimulates the production of insulin in pancreas",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Insulin maintains blood glucose level by directing liver, fat and skeletal muscle cells to absorb and convert excessive sugar from the bloodstream into energy",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Chronic metabolic disorder",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Prediabetes: abnormally high blood glucose level, typically developed before type 2 diabetes develops",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Deficiency of the body to produce (type 1) or use (type 2) insulin according to the body’s demand, resulting in an abnormally increased level of blood sugar",
+                        "steps":null
+                      },
+                      {
+                        "image":null,
+                        "title":"Gestational diabetes",
+                        "steps":[
+                             {
+                                "image":null,
+                                "title":"Women experience diabetes during pregnancy because pancreas fails to secrete sufficient amount of insulin",
+                                "steps":null,
+                              },
+                             {
+                                "image":null,
+                                "title":"Typically shows no symptoms in early weeks of pregnancy until between the 24th and 28th weeks",
+                                "steps":null,
+                              },
+                              {
+                                "image":null,
+                                "title":"Typically shows no symptoms in early weeks of pregnancy until between the 24th and 28th weeks",
+                                "steps":null,
+                              },
+                              {
+                                "image":null,
+                                "title":"Placing the baby at higher risk of having low blood sugar, experiencing difficult and early delivery, and having type 2 diabetes later on",
+                                "steps":null,
+                              },
+                            ]
+                  ]
+               },
+               {
+                  "title":"Statistics",
+                  "image":null,
+                  "steps":[
+                     {
+                        "image":null,
+                        "title":"Among 24 million adults (20-79) who have diabetes in the IDF Africa Region, 13 million are undiagnosed",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"416,000 deaths as a result of diabetes",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"416,000 deaths as a result of diabetes",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Hyperglycemia in pregnancy affects 1:8 newborns",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"USD 13 billion (1% of worldwide expenses) was spent on diabetes treatment",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Tanzania",
+                        "steps":[
+                           {
+                              "image":null,
+                              "title":"Number of diabetes deaths in 2016: 4250 (age: 30-69) and  4590 (age: 70+)",
+                              "steps":null
+                           },
+                           {
+                              "image":null,
+                              "title":"In 2011: 2.3% (473 adults from 20-79 y/o) of the national population have diabetes. Number of adults with diabetes is predicted to roughly double in 2030 (1107 and 3%)",
+                              "steps":null
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "image":null,
+            "title":"Step 2: Emergency Treatment",
+            "steps":[
+               {
+                  "image":null,
+                  "title":"What to do when waiting for professional help",
+                  "steps":[
+                     {
+                        "image":null,
+                        "title":"Check for breathing, heartbeat, and consciousness",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Open airway and start CPR in case of unconsciousness",
+                        "steps":null
+                     },
+                      {
+                        "image":null,
+                        "title":"Rooibos Herbal Tea",
+                        "steps": [
+                            {
+                                "image":null,
+                                "title":"Contain natural source of anioxidant aspalathin (anti-diabetic effects)",
+                                "steps":null
+                             },
+                             {
+                                "image":null,
+                                "title":"Balanced blood sugar levels and reduced insulin resistance)",
+                                "steps":null
+                             },
+                             {
+                                "image":null,
+                                "title":"Methods: ferment the leaves and soak in hot water",
+                                "steps":null
+                             }
+                             ]
+                     },
+                      {
+                        "image":null,
+                        "title":"Cyclopia genistoides (Honeybush) in tea-form",
+                        "steps": [
+                              {
+                                "image":null,
+                                "title":"Can help manage and treat Type 2 Diabetes (contains polyphenols)",
+                                "steps":null
+                             },
+                             {
+                                "image":null,
+                                "title":"Lower blood sugar levels and stimulates insulin secretions",
+                                "steps":null
+                             }
+                             
+                     },
+                    
+                  ]
+               },
+               {
+                  "image":"?",
+                  "title":null,
+                  "steps":null
+               }
+            ]
+         },
+         {
+            "image":null,
+            "title":"Step 3: Diagnosis",
+            "steps":[
+               {
+                  "image":null,
+                  "title":"Warning Signs",
+                  "steps":[
+                     {
+                        "image":null,
+                        "title":"Prediabetes",
+                        "steps": [
+                             {
+                                "image":null,
+                                "title":"Velvety dark patches on skin, particularly found in neck, armpit, and groin",
+                                "steps": null,
+                              },
+                              {
+                                "image":null,
+                                "title":"Numerous hanging skin growth",
+                                "steps": null,
+                              }
+                              ]
+                              
+                              
+                     },
+                     {
+                        "image":null,
+                        "title":"Reactive low blood sugar 2-3 hours after a meal",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Excessive thirst and frequent urination",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Abdominal pain, rapid heartbeat, dry skin, fruity breath, sleepiness and exhaustion, blurry vision, difficulty in focusing",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Abdominal pain",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Rapid heartbeat",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Fruity breath",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Fruity breath",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Dry skin",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Sleepiness and exhaustion",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Blurry vision and difficulty focusing",
+                        "steps":null
+                     }
+                  ]
+               },
+               {
+                  "image":null,
+                  "title":"Common Symptoms",
+                  "steps":[
+                     {
+                        "image":null,
+                        "title":"Frequent urination, thirst, hunger, exhaustion, and infection,
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Abnormal weight loss",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Blurry vision",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Limbs feeling numb",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Heal slowly from pain and infections",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Nausea, vomiting, and abdominal pains",
+                        "steps":null
+                     },
+                     {
+                        "image":null,
+                        "title":"Fatigue",
+                        "steps":null
+                     }
+                  ]
+               },
+               {
+                  "image":"?",
+                  "title":null,
+                  "steps":null
+               }
+            ]
+         },
+         {
+            "image":null,
+            "title":"Step 4: Common causes",
+            "steps":[
+               {
+                  "image":null,
+                  "title":"Prediabetes: unknown cause, risk factors are similar to type 2",
+                  "steps":null
+               },
+               {
+                  "image":null,
+                  "title":"Type 1: insulin dependent, immune system destroys pancreatic cells that produce insulin",
+                  "steps":null
+               },
+               {
+                  "image":null,
+                  "title":"Type 2: cells undergo insulin resistance, the pancreas fails to compensate for insulin demand of cells to convert sugar into energy → sugar stays in bloodstream,"
+                  "steps": [
+                      {
+                         "image":null,
+                          "title":"Risk factors: poor lifestyle with little to no exercise and poor eating habits, family history, obese and overweight,"
+                          "steps": null,
+                       },
+                       {
+                          "image":null,
+                          "title":"Exact causes of 2 types remain unknown but some evidence suggests genetic and environmental factors,"
+                          "steps": null, 
+                        }
+                          ]
+               },
+               {
+                  "image":null,
+                  "title":"Gestational diabetes: > 35 years old, family history of gestational diabetes, obese and overweight",
+                  "steps":null
+               }
+            ]
+         },
+         {
+            "image":null,
+            "title":"Step 5: Preventative care",
+            "steps":[
+               {
+                  "image":null,
+                  "title":"Family history",
+                  "steps":[
+                     {
+                        "image":null,
+                        "title":"history of diabetes in family increases the possibility of a newborn having diabetes or prediabetes",
+                        "steps":null
+                   
+                     }
+                  ]
+               },
+               {
+                  "image":null,
+                  "title":"Tests",
+                  "steps":[
+                     {
+                        "image":null,
+                        "title":"Immunizations",
+                        "steps":[
+                           {
+                              "image":null,
+                              "title":"Bacteria or viruses are not a direct cause of diabetes. Therefore, there is no vaccines specifically developed to prevent diabetes",
+                              "steps":null
+                           },
+                           {
+                              "image":null,
+                              "title":"Immune system of a prolonged diabetic patient may be weakened → increases risk of infections & diabetic complications → may be fatal",
+                              "steps":null
+                           },
+                           
+                           {
+                              "image":null,
+                              "title":"Prevent the development of further complications and protect the body against infections, CDC recommends a diabetic patient to have influenza, Tdap, zoster, pneumococcal, and hepatitis B vaccine",
+                              "steps":null
+                           },
+                           {
+                              "image":null,
+                              "title":"No diabetic vaccines at present due to unknown causes. However, Stone et al. had developed a vaccine for mice against certain pathogens that are hypothesized to be responsible for type 1 diabetes.",
+                              "steps":null
+                           }
+                              
+                              "title":"Blood tests",
+                              "steps":[
+                                 {
+                                    "image":null,
+                                    "title":"Determine if a patient is having prediabetes, type 1, type 2, or gestational diabetes",
+                                    "steps":null
+                                 },
+                                  {
+                                    "image":null,
+                                    "title":"For prediabetes, type 1, type 2:",
+                                    "steps": [
+                                            
+                                            {
+                                              "image":null,
+                                              "title":"A1C tests: a 3-month measure of blood sugar",
+                                              "steps":null
+                                           },
+                                           {
+                                              "image":null,
+                                              "title":"Fasting blood sugar test: measure after a night of not consuming food",
+                                              "steps":null
+                                           },
+                                           {
+                                              "image":null,
+                                              "title":"Glucose tolerance test: assess how the body absorb and process certain amount of glucose, measure after a night of not consuming food and drinking a given glucose liquid",
+                                              "steps":null
+                                           },
+                                           {
+                                              "image":null,
+                                              "title":"Random blood sugar test: random assessment at any time, no overnight fasting required",
+                                              "steps":null
+                                            }
+                                            ]
+                                      {
+                                        "image":null,
+                                        "title":"For gestational diabetes:",
+                                        "steps": [
+                                              {
+                                              "image":null,
+                                              "title":"Typically between 24 and 28 weeks of pregnancy. However, a patient with risk factors associated higher chance of having gestational diabetes with may be tested earlier",
+                                              "steps":null
+                                           },
+                                           {
+                                              "image":null,
+                                              "title":"Women generally experience low blood glucose in early weeks of pregnancy. An abnormal increase in blood glucose level during this period is more likely to suggest type 1 and type 2 diabetes than to gestational diabetes",
+                                              "steps":null
+                                           },
+                                           {
+                                              "image":null,
+                                              "title":"Glucose screening test: measure after 1 hour of drinking a glucose liquid. ",
+                                              "steps":null
+                                           },
+                                           {
+                                              "image":null,
+                                              "title":"Glucose tolerance test: >  140 mg/dL when having a glucose screening test. assess how the body absorb and process certain amount of glucose, measure after a night of not consuming food and drinking a given glucose liquid",
+                                              "steps":null
+                                           }
+                                           ]
+                                     }
+                                 }
+                              ]
+                           },
+                           {
+                              "image":null,
+                              "title":"Screening",
+                              "steps":[
+                                 {
+                                    "image":null,
+                                    "title":"Community screening: not cost-effective, infeasible to implement sufficiently critical follow-ups",
+                                    "steps":null
+                                 },
+                                 {
+                                    "image":null,
+                                    "title":"Individual screening in clinical settings is recommended",
+                                    "steps":null
+                                 }
+                              ]
+                           }
+                           ]
+                           
+               {
+              "image":null,
+              "title":"Lifestyle changes",
+              "steps":[
+                 {
+                    "image":null,
+                    "title":"Weight control and exercising",
+                    "steps":null
+                 {
+                    "image":null,
+                    "title":"Promoting healthy eating diets",
+                    "steps":null
+                 },
+                 {
+                    "image":null,
+                    "title":"Adjusting stress level",
+                    "steps":null
+                 },
+                 {
+                    "image":null,
+                    "title":"Avoid smoking",
+                    "steps":null
+                 }
+                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ]
+                     },
+           {
+              "image":null,
+              "title":"Step 6: Long-term treatment",
+              "steps":[
+                 {
+                    "image":null,
+                    "title":"Best option(s)",
+                    "steps":[
+                       {
+                          "image":null,
+                          "title":"Type 1",
+                          "steps": [
+                               {
+                          "image":null,
+                          "title":"Lifelong insulin therapy",
+                          "steps": [
+                              {
+                                  "image":null,
+                                  "title":"Cannot be taken as oral medicine due to catalytic reactions initiated by stomach enzyme",
+                                  "steps": null
+                              },
+                              {
+                                  "image":null,
+                                  "title":"Injection through skin",
+                                  "steps": [
+                                      {
+                                          "image":null,
+                                          "title":"Needle and syringe or an insulin pen",
+                                          "steps": null
+                                      },
+                                      {
+                                          "image":null,
+                                          "title":"Evidence of multiple injections of long-acting and rapid-acting insulin (three or more) closely resemble normal insulin regulation of the body and adjust blood glucose level better compared to one or two shots",
+                                          "steps": null
+                                      },
+                              },
+                               {
+                                  "image":null,
+                                  "title":"Artificial pancreas transplant",
+                                  "steps": [
+                                      {
+                                          "image":null,
+                                          "title":"A device made of continuous glucose monitoring device acting in accordance with insulin pump to dispense sufficient amount of insulin when needed",
+                                          "steps": null
+                                       },
+                               },
+                               {
+                          "image":null,
+                          "title":"Type 2",
+                          "steps": [
+                              {
+                              {
+                                "image":null,
+                                "title":"Metformin",
+                                "steps": [
+                                    {
+                                      "image":null,
+                                      "title":"Reducing glucose synthesis in the liver to raise insulin sensitivity so cells can recognize and respond to insulin",
+                                      "steps": null,
+                                     },
+                                     {
+                                      "image":null,
+                                      "title":"Rarely induce lactic acidosis, a fatal condition resulting from excessive lactic acid buildup in the body, unless being taken with certain medications",
+                                      "steps": null,
+                                      },
+                                      {
+                                      "image":null,
+                                      "title":"Discuss with your doctor before taking metformin to evaluate risk factors, including your age, medical history of stroke and kidney, heart, and liver diseases, and use of alcohol",
+                                      "steps": null,
+                                      },
+                               },
+
+                               }
+                               ]
+                       },
+                       {
+                          "image":null,
+                          "title":"Regardless of types",
+                          "steps": [
+                                {
+                                  "image":null,
+                                  "title":"Monitor and adjust eating habits",
+                                  "steps": null
+                                },
+                                {
+                                  "image":null,
+                                  "title":"Frequent blood glucose measure",
+                                  "steps": null
+                                },
+                               {
+                                  "image":null,
+                                  "title":"Be physically active",
+                                  "steps": null
+                                },
+                                ]
+                       }
+                    ]
+                 },
+                 {
+                    "image":null,
+                    "title":"Access:",
+                    "steps":[
+                       {
+                          "image":null,
+                          "title":"Price",
+                          "steps": [
+                             { 
+                               "image":null,
+                                "title":"In East Africa, the average annual cost of 229 USD is spent for treating an individual with type 1 diabetes while 58.3% of Kenyans make less than 2 USD per day",
+                                "steps": null,
+                              },
+                              { 
+                               "image":null,
+                                "title":"Generally limited and poorly distributed to local hospitals. Patients are often left with no choice but to purchase from private suppliers with an increase of up to 67% compared to public health centers",
+                                "steps": null,
+                              },
+                            ]
+                       },
+                       {
+                          "image":null,
+                          "title":"Governments purchase insulin based on the remaining budget rather than demand of patients, leading to a shortage of insulin",
+                          "steps":null
+                       },
+                       {
+                          "image":null,
+                          "title":"Lack of affordable syringes and needles to inject insulin and urine test strps, blood test, and a glucometer to monitor glucose level frequently",
+                          "steps":null
+                       },
+                       {
+                          "image":null,
+                          "title":"Where: pharmacy, over-the-counter (insulin), doctor prescription (metformin is prescription only), healthcare facilities",
+                          "steps":null
+                       }
+                    ]
+                 },
+                 {
+                              "image":null,
+                              "title":"How to track",
+                              "steps":[
+                                 {
+                                    "image":null,
+                                    "title":"Frequent manual monitor of blood glucose level",
+                                    "steps":null
+                                 },
+                                 {
+                                    "image":null,
+                                    "title":"Artificial pancreas transplant: a device made of continuous glucose monitoring device acting in accordance with insulin pump to dispense sufficient amount of insulin when needed",
+                                    "steps":null
+                                 },
+                                 {
+                                    "image":null,
+                                    "title":"Discuss with doctor on any concerns or changes to adjust the amount of dose",
+                                    "steps":null
+                                 }
+                                 
+                              ]
+                           }
+                        ]
+                     }
+                  ]
+               },
+           {
+              "image":null,
+              "title":"Step 7: Phytomedicine",
+              "steps":[
+                 {
+                    "image":null,
+                    "title":"Common myths",
+                    "steps":[
+                       {
+                          "image":null,
+                          "title":"Can be used as an alternative to fully replace insulin and other medications and cure diabetes",
+                          "steps":null
+                       },
+                       {
+                          "image":null,
+                          "title":"Restore blood glucose regulation of the body by enhancing the viability of insulin produced in the body"
+                       }
+                    ]
+                 },
+                 {
+                    "image":null,
+                    "title":"Potential toxicity",
+                    "steps":[
+                       {
+                          "image":null,
+                          "title":"Long-term consumption of coumarins in C. cassia and C. verum may induce hepatoxicity in humans",
+                          "steps":null
+                       },
+                       {
+                          "image":null,
+                          "title":"Severe toxicity: irregular heartbeat, breathing difficulty, seizures, or paralysis - fatal",
+                          "steps":null
+                       },
+                       {
+                          "image":null,
+                          "title":"Moderate toxicity: hallucinations, abdominal pain, agitation, or severe skin rashes",
+                          "steps":null
+                        },
+                        {
+                          "image":null,
+                          "title":"Mild toxicity: nausea, vomiting, diarrhea, or dermatitis",
+                          "steps":null
+                       },
+                       {
+                          "image":null,
+                          "title":"Certain side effects may lead to severe complications or death in a small amount",
+                          "steps":null
+                       
+                       },
+                                "title":"How to couple with Western medicine",
+                                "steps":[
+                                   {
+                                      "image":null,
+                                      "title":"Modern standardized extraction methods, thorough assessment on chemical composition, and appropriate amount of dosage → improve safety and effectiveness",
+                                      "steps":null
+                                   },
+                                   {
+                                      "image":null,
+                                      "title":"Limited to no evidence on how to couple with Western medicine",
+                                      "steps":null
+                                       }
+                                    ]
+                                 }
+                              ]
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+]
